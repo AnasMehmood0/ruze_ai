@@ -1,0 +1,14 @@
+{
+  "name": "ruze-ai-js",
+  "version": "1.0.0",
+  "description": "RUZE Holographic Neural Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  }
+}
